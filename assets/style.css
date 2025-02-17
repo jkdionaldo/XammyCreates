@@ -1,3 +1,5 @@
-body {
-  background-image: url("../assets/Screenshot\ 2025-02-16\ 200644.png");
+.navbar-custom {
+  margin-top: 100px;
+  width: 500px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
